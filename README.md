@@ -1,3 +1,5 @@
 # FyanLib
 FyanLib is the Best Roblox UI Library
-Documentation will come later...
+# Load the Library
+lua```
+local WindUI = loadstring(game:HttpGet("https://tree-hub.vercel.app/api/UI/WindUI"))()```
